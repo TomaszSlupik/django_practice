@@ -1,0 +1,5 @@
+venv
+django_lesson/settings.py
+django_lesson/__pycache__
+lesson/__pycache__
+lesson/migrations
